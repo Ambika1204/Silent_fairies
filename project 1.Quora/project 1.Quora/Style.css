@@ -1,0 +1,22 @@
+h1{
+    color:#B92B27
+}
+*{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color:#831915
+}
+.upvote{
+    background-color:#223f7a;
+    color:white;
+}
+.answer{
+    background-color: #e0f5f7;
+    color:blue;
+    font-weight:bolder;
+}
+div>input{
+    background-color: rgb(211, 190, 190);
+}
